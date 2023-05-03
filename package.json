@@ -1,0 +1,24 @@
+{
+  "name": "persistence-api",
+  "version": "1.0.0",
+  "description": "API de estudo de integração com o banco de dados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dnrocha13/persistence-api.git"
+  },
+  "author": "Diego Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dnrocha13/persistence-api/issues"
+  },
+  "homepage": "https://github.com/Dnrocha13/persistence-api#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
